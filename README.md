@@ -1,5 +1,5 @@
 
-# Lottery-Smart-Contract
+# Video Search Application
 
 ## Project Description
 Small project to learn React fundementals from the Udemy course Ethereum and Solidity: The Complete Developer's Guide.
